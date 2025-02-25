@@ -10,5 +10,11 @@
       "ssid": "ecba591a-ed7c-45ce-815b-37355cf4050f",
       "interval": "60"
     }
-  ]
+  ],
+  "readings": [
+    {
+      "ssid": "57ca07bd-5b56-4496-90bc-e318b3ffbdf9",
+      "reading": "25gm",
+      "time": "1740453338"
+    }
 }

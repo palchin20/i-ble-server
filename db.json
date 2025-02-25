@@ -1,12 +1,12 @@
 {
   "scales": [
     {
-      "uuid": "FF:F2:00:08:0E:6D",
+      "id": "FF:F2:00:08:0E:6D",
       "ssid": "57ca07bd-5b56-4496-90bc-e318b3ffbdf9",
       "interval": "10"
     },
     {
-      "uuid": "FF:F2:00:08:0E:6E",
+      "id": "FF:F2:00:08:0E:6E",
       "ssid": "ecba591a-ed7c-45ce-815b-37355cf4050f",
       "interval": "60"
     }

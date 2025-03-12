@@ -2,7 +2,7 @@
   "scales": [
     {
       "id": "FF:F2:00:08:0E:6D",
-      "ssid": "57ca07bd-5b56-4496-90bc-e318b3ffbdf9",
+      "ssid": "11",
       "interval": "10"
     },
     {
@@ -13,7 +13,7 @@
   ],
   "readings": [
     {
-      "ssid": "57ca07bd-5b56-4496-90bc-e318b3ffbdf9",
+      "ssid": "22",
       "reading": "25gm",
       "time": "1740453338"
     },
